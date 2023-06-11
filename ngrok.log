@@ -10,3 +10,6 @@ t=2023-06-11T11:25:21+0000 lvl=info msg="join connections" obj=join id=447423d87
 t=2023-06-11T11:31:43+0000 lvl=info msg="join connections" obj=join id=14014b5b2990 l=127.0.0.1:8080 r=140.82.115.117:24705
 t=2023-06-11T11:32:32+0000 lvl=info msg="join connections" obj=join id=564b4fff216a l=127.0.0.1:8080 r=140.82.115.144:19889
 t=2023-06-11T11:35:25+0000 lvl=info msg="join connections" obj=join id=44c01e79ffad l=127.0.0.1:8080 r=91.219.234.15:6630
+t=2023-06-11T11:36:19+0000 lvl=info msg="join connections" obj=join id=2d2819b8c3a1 l=127.0.0.1:8080 r=140.82.115.54:46699
+t=2023-06-11T11:44:14+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-06-11T11:44:14+0000 lvl=info msg="session closing" obj=tunnels.session err=nil
